@@ -5,11 +5,22 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
+
+          <div>
+            <p style={{color: "white",
+        backgroundColor: '#f1356d',
+        borderRadius: '8px'
+       }}>Hi every one to day i am going to build a self landing page that has only basic info</p>
+
+
+
+          </div>
+
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          first git hub code space through webapp <span className="heart">♥️</span> React
         </p>
-        <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+        <p style={{color: "pink", fontSize: '30px',  }}>
+           i do not want to relode
         </p>
         <p>
           <a
